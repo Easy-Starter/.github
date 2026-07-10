@@ -12,7 +12,6 @@
 
 ```text
 profile/README.md                 # پروفایل عمومی انگلیسی
-profile/README.fa.md              # پروفایل عمومی فارسی
 CONTRIBUTING.md                   # راهنمای پیش‌فرض مشارکت
 CODE_OF_CONDUCT.md                # سیاست رفتاری
 SECURITY.md                       # سیاست امنیتی

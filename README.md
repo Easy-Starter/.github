@@ -10,7 +10,6 @@ This repository contains the public organization profile and the default communi
 
 ```text
 profile/README.md                 # Public organization profile
-profile/README.fa.md              # Persian organization profile
 CONTRIBUTING.md                   # Default contribution guide
 CODE_OF_CONDUCT.md                # Default conduct policy
 SECURITY.md                       # Default security policy
