@@ -8,7 +8,7 @@
 
 از یک پایه‌ی یکپارچه شروع کنید، اول Spec بنویسید و زمان پروژه را به‌جای تنظیمات تکراری روی فیچرهای محصول بگذارید.
 
-[مستندات](https://github.com/easy-starter/easy-starter-docs) · [قالب‌های محصول](https://github.com/easy-starter/easy-starter-product-kit) · [English](README.md)
+[مستندات](https://github.com/easy-starter/easy-starter-docs) · [قالب‌های محصول](https://github.com/easy-starter/easy-starter-product-kit) · [English Version](README.md)
 
 ![AI-first](https://img.shields.io/badge/development-AI--first-8a2be2) ![Spec-driven](https://img.shields.io/badge/workflow-spec--driven-6f42c1) ![Open source](https://img.shields.io/badge/open%20source-MIT-2ea44f)
 
@@ -20,19 +20,19 @@
 
 ## انتخاب استارتر
 
-| ریپوزیتوری | کاربرد |
-|---|---|
-| [`easy-starter-docs`](https://github.com/easy-starter/easy-starter-docs) | مستندات ساده و عملی برای انتخاب، استفاده، توسعه و نگهداری تمپلیت‌های Easy Starter. |
-| [`easy-starter-product-kit`](https://github.com/easy-starter/easy-starter-product-kit) | قالب‌های عملی کشف محصول، PRD، دیزاین‌بریف، معماری و توسعه‌ی مبتنی بر مشخصات برای تیم‌های AI-first. |
+| ریپوزیتوری                                                                                                 | کاربرد                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [`easy-starter-docs`](https://github.com/easy-starter/easy-starter-docs)                                   | مستندات ساده و عملی برای انتخاب، استفاده، توسعه و نگهداری تمپلیت‌های Easy Starter.                              |
+| [`easy-starter-product-kit`](https://github.com/easy-starter/easy-starter-product-kit)                     | قالب‌های عملی کشف محصول، PRD، دیزاین‌بریف، معماری و توسعه‌ی مبتنی بر مشخصات برای تیم‌های AI-first.              |
 | [`easy-starter-nextjs-marketing-site`](https://github.com/easy-starter/easy-starter-nextjs-marketing-site) | پایه‌ای Production-capable و SEO-friendly با Next.js برای پورتفولیو، لندینگ محصول و وب‌سایت‌های عمومی کسب‌وکار. |
-| [`easy-starter-nextjs-web-app`](https://github.com/easy-starter/easy-starter-nextjs-web-app) | پایه‌ای Production-capable با Next.js برای SaaS، داشبورد، پورتال و اپلیکیشن‌های مجهز به هوش مصنوعی. |
-| [`easy-starter-django-backend`](https://github.com/easy-starter/easy-starter-django-backend) | بک‌اند Production-capable با Django شامل ادمین، پایه‌ی API، PostgreSQL، Docker، تست و تنظیمات امن محیط. |
-| [`easy-starter-vite-react-spa`](https://github.com/easy-starter/easy-starter-vite-react-spa) | پایه‌ای سبک و Maintainable با Vite و React برای SPAهای متصل به API، داشبورد، ابزار داخلی و اپلیکیشن Embedded. |
-| [`easy-starter-commerce`](https://github.com/easy-starter/easy-starter-commerce) | پایه‌ی Full-stack فروشگاهی برای Storefront، عملیات، محصول، سبد، سفارش، پرداخت و Adapterهای منطقه‌ای. |
-| [`easy-starter-react-native-app`](https://github.com/easy-starter/easy-starter-react-native-app) | پایه‌ای Production-capable با Expo و React Native برای اپلیکیشن‌های مشترک Android، iOS و Web. |
-| [`easy-starter-browser-extension`](https://github.com/easy-starter/easy-starter-browser-extension) | پایه‌ی Cross-browser با Extension.js برای افزونه‌های Chrome، Edge و Firefox با React و TypeScript. |
-| [`easy-starter-automation-service`](https://github.com/easy-starter/easy-starter-automation-service) | سرویس Production-capable پایتون برای Webhook، کار زمان‌بندی‌شده، Queue، اتصال سرویس‌ها و اتوماسیون پس‌زمینه. |
-| [`easy-starter-messaging-bot`](https://github.com/easy-starter/easy-starter-messaging-bot) | پایه‌ی بات چندکاناله برای تلگرام، بله، واتساپ و پیام‌رسان‌های دیگر با معماری مبتنی بر Adapter. |
+| [`easy-starter-nextjs-web-app`](https://github.com/easy-starter/easy-starter-nextjs-web-app)               | پایه‌ای Production-capable با Next.js برای SaaS، داشبورد، پورتال و اپلیکیشن‌های مجهز به هوش مصنوعی.             |
+| [`easy-starter-django-backend`](https://github.com/easy-starter/easy-starter-django-backend)               | بک‌اند Production-capable با Django شامل ادمین، پایه‌ی API، PostgreSQL، Docker، تست و تنظیمات امن محیط.         |
+| [`easy-starter-vite-react-spa`](https://github.com/easy-starter/easy-starter-vite-react-spa)               | پایه‌ای سبک و Maintainable با Vite و React برای SPAهای متصل به API، داشبورد، ابزار داخلی و اپلیکیشن Embedded.   |
+| [`easy-starter-commerce`](https://github.com/easy-starter/easy-starter-commerce)                           | پایه‌ی Full-stack فروشگاهی برای Storefront، عملیات، محصول، سبد، سفارش، پرداخت و Adapterهای منطقه‌ای.            |
+| [`easy-starter-react-native-app`](https://github.com/easy-starter/easy-starter-react-native-app)           | پایه‌ای Production-capable با Expo و React Native برای اپلیکیشن‌های مشترک Android، iOS و Web.                   |
+| [`easy-starter-browser-extension`](https://github.com/easy-starter/easy-starter-browser-extension)         | پایه‌ی Cross-browser با Extension.js برای افزونه‌های Chrome، Edge و Firefox با React و TypeScript.              |
+| [`easy-starter-automation-service`](https://github.com/easy-starter/easy-starter-automation-service)       | سرویس Production-capable پایتون برای Webhook، کار زمان‌بندی‌شده، Queue، اتصال سرویس‌ها و اتوماسیون پس‌زمینه.    |
+| [`easy-starter-messaging-bot`](https://github.com/easy-starter/easy-starter-messaging-bot)                 | پایه‌ی بات چندکاناله برای تلگرام، بله، واتساپ و پیام‌رسان‌های دیگر با معماری مبتنی بر Adapter.                  |
 
 ## اصول اصلی
 

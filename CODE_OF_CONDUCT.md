@@ -1,5 +1,7 @@
 # Code of Conduct
 
+[نسخه فارسی](./fa/CODE_OF_CONDUCT.fa.md)
+
 ## Our standard
 
 Easy Starter is committed to a respectful, welcoming, and practical community. Contributors must communicate professionally, critique ideas rather than people, respect different levels of experience, and protect private information.

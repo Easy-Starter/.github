@@ -1,5 +1,7 @@
 # Support
 
+[نسخه فارسی](./fa/SUPPORT.fa.md)
+
 ## Where to ask
 
 - **Setup or usage question:** use Discussions in [`easy-starter-docs`](https://github.com/easy-starter/easy-starter-docs/discussions).

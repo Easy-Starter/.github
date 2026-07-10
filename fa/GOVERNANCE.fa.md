@@ -2,6 +2,8 @@
 
 # حاکمیت پروژه
 
+[English Version](../GOVERNANCE.md)
+
 Easy Starter از مدل Maintainer-led استفاده می‌کند.
 
 ## نقش‌ها

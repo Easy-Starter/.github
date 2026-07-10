@@ -1,5 +1,7 @@
 # Security Policy
 
+[نسخه فارسی](./fa/SECURITY.fa.md)
+
 ## Supported versions
 
 Security fixes are provided for the latest stable major release of each repository. Repositories marked `foundation`, pre-`1.0.0`, archived, or explicitly unsupported do not carry a production-support commitment.

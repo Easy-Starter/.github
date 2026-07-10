@@ -2,6 +2,8 @@
 
 # مشارکت در Easy Starter
 
+[English Version](../CONTRIBUTING.md)
+
 از مشارکت شما ممنونیم. Easy Starter بر تغییرات متمرکز، Spec شفاف، معماری قابل‌پیش‌بینی و مستندات عملی تأکید دارد.
 
 ## پیش از شروع

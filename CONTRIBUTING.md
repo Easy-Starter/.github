@@ -1,5 +1,7 @@
 # Contributing to Easy Starter
 
+[نسخه فارسی](./fa/CONTRIBUTING.fa.md)
+
 Thank you for contributing. Easy Starter values focused changes, clear specifications, predictable architecture, and practical documentation.
 
 ## Before you start
