@@ -2,8 +2,6 @@
 
 # پشتیبانی
 
-[English Version](../SUPPORT.md)
-
 ## کجا سؤال بپرسیم؟
 
 - **سؤال راه‌اندازی یا استفاده:** Discussion ریپوی [`easy-starter-docs`](https://github.com/easy-starter/easy-starter-docs/discussions).

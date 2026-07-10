@@ -6,9 +6,9 @@
 
 Build from a consistent foundation, write the specification first, and spend project time on product features instead of repeated setup.
 
-[Documentation](https://github.com/easy-starter/easy-starter-docs) · [Product templates](https://github.com/easy-starter/easy-starter-product-kit) · [نسخه فارسی](README.fa.md)
-
 ![AI-first](https://img.shields.io/badge/development-AI--first-8a2be2) ![Spec-driven](https://img.shields.io/badge/workflow-spec--driven-6f42c1) ![Open source](https://img.shields.io/badge/open%20source-MIT-2ea44f)
+
+[Documentation](https://github.com/easy-starter/easy-starter-docs) · [فارسی](README.fa.md)
 
 </div>
 

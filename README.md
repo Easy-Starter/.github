@@ -2,14 +2,14 @@
 
 ![Community health](https://img.shields.io/badge/GitHub-community%20health-2ea44f?logo=github) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[نسخه فارسی](./fa/README.fa.md)
+[فارسی](./fa/README.fa.md)
 
 This repository contains the public organization profile and the default community health files used across Easy Starter repositories.
 
 ## Structure
 
 ```text
-profile/README.md                 # Public organization profile
+profile/                          # Public organization profile
 CONTRIBUTING.md                   # Default contribution guide
 CODE_OF_CONDUCT.md                # Default conduct policy
 SECURITY.md                       # Default security policy

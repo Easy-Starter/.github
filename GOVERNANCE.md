@@ -1,7 +1,5 @@
 # Governance
 
-[نسخه فارسی](./fa/GOVERNANCE.fa.md)
-
 Easy Starter uses a maintainer-led governance model.
 
 ## Roles
