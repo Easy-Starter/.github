@@ -6,7 +6,7 @@
 
 [English Version](README.md)
 
-این ریپوزیتوری شامل پروفایل عمومی سازمان و Community Health Fileهای پیش‌فرض برای ریپوهای Easy Starter است.
+این مخزن کد شامل پروفایل عمومی سازمان و Community Health Fileهای پیش‌فرض برای مخزن‌های Easy Starter است.
 
 ## ساختار
 
@@ -18,16 +18,8 @@ CODE_OF_CONDUCT.md                # سیاست رفتاری
 SECURITY.md                       # سیاست امنیتی
 SUPPORT.md                        # سیاست پشتیبانی
 GOVERNANCE.md                     # مدل تصمیم‌گیری و نگهداری
-.github/ISSUE_TEMPLATE/           # فرم‌های پیش‌فرض Issue
-.github/PULL_REQUEST_TEMPLATE.md  # قالب پیش‌فرض Pull Request
+ISSUE_TEMPLATE/                   # فرم‌های پیش‌فرض Issue
+PULL_REQUEST_TEMPLATE/            # قالب پیش‌فرض Pull Request
 ```
-
-## چک‌لیست Maintainer
-
-۱. ریپوی `.github` را **Public** نگه دارید تا فایل‌های پیش‌فرض پشتیبانی‌شده در سطح سازمان اعمال شوند.
-۲. اگر Slug واقعی سازمان متفاوت است، `easy-starter` را در لینک‌ها جایگزین کنید.
-۳. Private Vulnerability Reporting را برای ریپوهای عمومی کد فعال کنید.
-۴. برای هر ریپو License تعیین کنید؛ این بسته از MIT استفاده می‌کند.
-۵. با تغییر دسته‌بندی ریپوها، فرم‌های Issue را بازبینی کنید.
 
 </div>

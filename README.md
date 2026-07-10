@@ -16,14 +16,6 @@ CODE_OF_CONDUCT.md                # Default conduct policy
 SECURITY.md                       # Default security policy
 SUPPORT.md                        # Default support policy
 GOVERNANCE.md                     # Maintainer and decision model
-.github/ISSUE_TEMPLATE/           # Default issue forms
-.github/PULL_REQUEST_TEMPLATE.md  # Default pull request template
+ISSUE_TEMPLATE/                   # Default issue forms
+PULL_REQUEST_TEMPLATE/            # Default pull request template
 ```
-
-## Maintainer checklist
-
-1. Keep this repository **public** so supported default community health files can apply across the organization.
-2. Replace `easy-starter` in links if the actual GitHub organization slug differs.
-3. Enable private vulnerability reporting in each public code repository.
-4. Add a license to every repository; templates in this package use MIT.
-5. Review default issue forms whenever repository categories change.
