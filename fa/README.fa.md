@@ -4,8 +4,6 @@
 
 ![Community health](https://img.shields.io/badge/GitHub-community%20health-2ea44f?logo=github) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-این مخزن کد شامل پروفایل عمومی سازمان و Community Health Fileهای پیش‌فرض برای مخزن‌های Easy Starter است.
-
 ## ساختار
 
 ```text

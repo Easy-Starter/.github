@@ -10,7 +10,7 @@
 
 ![AI-first](https://img.shields.io/badge/development-AI--first-8a2be2) ![Spec-driven](https://img.shields.io/badge/workflow-spec--driven-6f42c1) ![Open source](https://img.shields.io/badge/open%20source-MIT-2ea44f)
 
-[مستندات](https://github.com/easy-starter/easy-starter-docs) · [English Version](README.md)
+[مستندات](https://github.com/easy-starter/easy-starter-docs) · [English](README.md)
 
 </div>
 

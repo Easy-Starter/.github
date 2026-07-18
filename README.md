@@ -4,8 +4,6 @@
 
 [فارسی](./fa/README.fa.md)
 
-This repository contains the public organization profile and the default community health files used across Easy Starter repositories.
-
 ## Structure
 
 ```text
