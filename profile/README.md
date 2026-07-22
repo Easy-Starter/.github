@@ -8,7 +8,7 @@ Build from a consistent foundation, write the specification first, and spend pro
 
 ![AI-first](https://img.shields.io/badge/development-AI--first-8a2be2) ![Spec-driven](https://img.shields.io/badge/workflow-spec--driven-6f42c1) ![Open source](https://img.shields.io/badge/open%20source-MIT-2ea44f)
 
-[Documentation](https://github.com/easy-starter/easy-starter-docs) · [فارسی](README.fa.md)
+[Documentation](https://easy-starter.github.io/easy-starter-docs/)
 
 </div>
 

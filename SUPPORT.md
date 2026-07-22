@@ -2,11 +2,10 @@
 
 ## Where to ask
 
-- **Setup or usage question:** use Discussions in [`easy-starter-docs`](https://github.com/easy-starter/easy-starter-docs/discussions).
-- **Reproducible defect:** open a Bug Report in the affected repository.
-- **Feature proposal:** open a Feature Request in the affected repository.
-- **Documentation problem:** open a Documentation Issue in `easy-starter-docs`.
-- **Security vulnerability:** follow `SECURITY.md`; never use a public issue.
+- **Setup or usage question:** Use Discussions in [Easy Starter Discussions](https://github.com/Easy-Starter/easy-starter-docs/discussions).
+- **Reproducible defect:** Open a Bug Report in the affected repository.
+- **Feature proposal:** Open a Feature Request in the affected repository.
+- **Security vulnerability:** Follow `SECURITY.md`; never use a public issue.
 
 ## Before opening a request
 
